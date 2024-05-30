@@ -1,0 +1,25 @@
+Debug: KiotaBuilder kiota version 1.15.0
+Debug: KiotaBuilder cache file C:\Users\krroh\AppData\Local\Temp\kiota\cache\generation\87FACB70FA4ADE9DC8D1420E2B289F7C0C4C87DBA9817DD80E38F944A06A56D6\swagger.json not found, downloading from http://localhost:3000/swagger.json
+Information: KiotaBuilder skipping cache write for URI http://localhost:3000/swagger.json as it is a loopback address
+Information: KiotaBuilder loaded description from remote source
+Debug: KiotaBuilder step 1 - reading the stream - took 00:00:00.3718558
+Debug: KiotaBuilder step 2 - parsing the document - took 00:00:00.3307731
+Debug: KiotaBuilder step 3 - updating generation configuration from kiota extension - took 00:00:00.0004931
+Debug: KiotaBuilder step 4 - filtering API paths with patterns - took 00:00:00.0291036
+Information: KiotaBuilder Client root URL set to http://localhost:3000
+Debug: KiotaBuilder step 5 - checking whether the output should be updated - took 00:00:00.0530924
+Debug: KiotaBuilder step 6 - create uri space - took 00:00:00.0055317
+Debug: KiotaBuilder InitializeInheritanceIndex 00:00:00.0097094
+Debug: KiotaBuilder CreateRequestBuilderClass 00:00:00
+Debug: KiotaBuilder MapTypeDefinitions 00:00:00.0106820
+Debug: KiotaBuilder TrimInheritedModels 00:00:00
+Debug: KiotaBuilder CleanUpInternalState 00:00:00
+Debug: KiotaBuilder step 7 - create source model - took 00:00:00.1845796
+Debug: KiotaBuilder 44ms: Language refinement applied
+Debug: KiotaBuilder step 8 - refine by language - took 00:00:00.0478214
+Debug: KiotaBuilder step 9 - writing files - took 00:00:00.0750192
+Debug: KiotaBuilder cache file C:\Users\krroh\AppData\Local\Temp\kiota\cache\generation\87FACB70FA4ADE9DC8D1420E2B289F7C0C4C87DBA9817DD80E38F944A06A56D6\swagger.json not found, downloading from http://localhost:3000/swagger.json
+Information: KiotaBuilder skipping cache write for URI http://localhost:3000/swagger.json as it is a loopback address
+Information: KiotaBuilder loaded description from remote source
+Debug: KiotaBuilder step 10 - writing lock file - took 00:00:00.0369556
+Debug: KiotaBuilder Api manifest path: E:\OSS\kiota\src\kiota\bin\Debug\net8.0\apimanifest.json
